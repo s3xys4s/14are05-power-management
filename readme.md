@@ -1,4 +1,4 @@
-# Lenovo Ideapad 15 14ARE05 Power Management Script
+# Lenovo Ideapad 15 14ARE05 Power Management
 
 A small 'Lenovo Vantage substitute' script for managing power levels on Ideapad 15 14ARE05.
 Original guide on power management:  
